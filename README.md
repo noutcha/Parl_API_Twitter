@@ -18,21 +18,24 @@ Ne vous inquiétez, je l'ai écrit pour vous!
 
 Conditions préalables
 =====================
-Fichier::HomeDir
-Config::Minuscule
-Net::Twitter
+
+Vous deviez installer les packages suivants :
+* Net::Twitter  [Meta CPAN](https://metacpan.org/pod/Net::Twitter)
+* Config::Tiny   [Meta CPAN](https://metacpan.org/pod/Config::Tiny)
+* Fichier::HomeDir [Meta CPAN](https://metacpan.org/pod/File::HomeDir) 
+* utf8::all [Meta CPAN](https://metacpan.org/pod/utf8::all)
+
+**Vous deviez** vous abornés sur le compte twitter du CERT_FR dont voici le lien [@CERT_FR] (https://twitter.com/CERT_FR) .
 
 Net::Twitter ?
 ------------ 
 C'est une interface Perl pour l'API Twitter.
-Pour plus d'informations visiter le site [Meta CPAN](https://metacpan.org/pod/Net::Twitter),
+Pour plus d'informations visiter le site [Meta CPAN](https://metacpan.org/pod/Net::Twitter) .
 
 Example
 ------
 Cet exemple est disponible sur le site CPAN qui donne plus de details sur cette interface.
-```html
-<div id="webcam"></div>
-```
+
 
 ```javascript
 
