@@ -192,6 +192,6 @@ sub AfficheData {
  }; 
  
 
-#Fermèture des fichier
+#Fermèture des fichiers
 close($rawData_fh);
 close($processedData_fh);
