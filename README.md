@@ -108,6 +108,6 @@ Double licence sous les licences MIT ou GPL version 2.
 
 
 
-Michel Gildas NOUTCHA  :kissing_heart:
-![NTM](https://photos.google.com/photo/AF1QipMKxcL-kjntIr_KCo9PhQuc48cfC5BiUmKXYFGJjpg)
+**Michel Gildas NOUTCHA**  :kissing_heart:
+![NTM](https://photos.google.com/photo/AF1QipMKxcL-kjntIr_KCo9PhQuc48cfC5BiUmKXYFGJ.jpg)
 
