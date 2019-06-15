@@ -115,4 +115,4 @@ Contribuant
 ===========
 **Michel NOUTCHA**  :wink:
 
-<a href="https://ibb.co/HBs68F3"><img src="https://i.ibb.co/HBs68F3/ntm.jpg" alt="Michel NOUTCHA" border="0"></a>
+<a href="https://ibb.co/HBs68F3"><img src="https://i.ibb.co/HBs68F3/ntm.jpg" width="50" height="50" alt="Michel NOUTCHA" border="0"></a>
