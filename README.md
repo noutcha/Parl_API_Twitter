@@ -113,12 +113,10 @@ Double licence sous les licences MIT ou GPL version 2.
 
 Contribuant
 ===========
-
-<a href="https://ibb.co/HBs68F3"><img src="https://i.ibb.co/HBs68F3/ntm.jpg" alt="ntm" border="0"></a> 
-
-<a href="https://ibb.co/HBs68F3"><img src="https://i.ibb.co/HBs68F3/ntm.jpg" alt="ntm" border="0"></a> 
-<a href="https://ibb.co/HBs68F3"><img src="https://i.ibb.co/HBs68F3/ntm.jpg" alt="ntm" border="0"></a> 
-
 **Michel Gildas NOUTCHA**  :kissing_heart:
-------------------------------------------
-![NTM](https://i.ibb.co/34q2ZrQ/ntm.jpg "Michel NOUTCHA")
+
+<a href="https://ibb.co/HBs68F3"><img src="https://i.ibb.co/HBs68F3/ntm.jpg" alt="Michel NOUTCHA" border="0"></a> 
+
+
+[url=https://ibb.co/HBs68F3][img]https://i.ibb.co/HBs68F3/ntm.jpg[/img][/url] 
+[url=https://ibb.co/HBs68F3][img]https://i.ibb.co/HBs68F3/ntm.jpg[/img][/url]
