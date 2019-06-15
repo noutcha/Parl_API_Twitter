@@ -3,7 +3,7 @@ Utiliser Twitter, obtenir des Tweets à partir d'un scrip Perl
 [![Build Status - Master](https://travis-ci.org/noutcha/Perl_API_Twitter?branch=master)](https://travis-ci.org/noutcha/Perl_API_Twitter)
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 [![Project Status](http://opensource.box.com/badges/maintenance.svg)](http://opensource.box.com/badges)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/major/Perl_API_Twitter.svg)](http://isitmaintained.com/project/noutcha/Perl_API_Twitter "Average time to resolve an issue")
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/noutcha/Perl_API_Twitter.svg)](http://isitmaintained.com/project/noutcha/Perl_API_Twitter "Average time to resolve an issue")
 [![Percentage of open issues](http://isitmaintained.com/badge/open/noutcha/Perl_API_Twitter.svg)](http://isitmaintained.com/project/noutcha/Perl_API_Twitter "Percentage of issues still open")
 [![GPL License](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
