@@ -149,7 +149,10 @@ if ( my $err = $@ ) { # si $@ est definie alors on a une erreur, on la recupère
          "Twitter error.....: ", $err->error, "\n";
 }
 AfficheFooter();
-# mes fonctions 
+
+
+
+# les fonctions utiles 
 
 #permet d'afficher les données avec retour a la ligne
 sub println {
