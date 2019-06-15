@@ -1,0 +1,27 @@
+Wed Jun 12 13:25:08 +0000 2019 <CERT_FR> CERTFR-2019-AVI-265 : Multiples vulnérabilités dans les produits Microsoft (12 juin 2019)  https://t.co/LhmGKLLPQf
+Wed Jun 12 13:25:08 +0000 2019 <CERT_FR> CERTFR-2019-AVI-264 : Multiples vulnérabilités dans Microsoft Windows (12 juin 2019)  https://t.co/3YqFvyP0cH
+Wed Jun 12 13:25:07 +0000 2019 <CERT_FR> CERTFR-2019-AVI-263 : Multiples vulnérabilités dans Microsoft Office (12 juin 2019)  https://t.co/rc73SJ0H75
+Wed Jun 12 13:25:07 +0000 2019 <CERT_FR> CERTFR-2019-AVI-262 : Multiples vulnérabilités dans Microsoft Edge (12 juin 2019)  https://t.co/aXhq8Napy0
+Wed Jun 12 13:25:07 +0000 2019 <CERT_FR> CERTFR-2019-AVI-261 : Multiples vulnérabilités dans Microsoft IE (12 juin 2019)  https://t.co/9pa2eLFBRq
+Thu May 23 16:10:46 +0000 2019 <CERT_FR> Mise à jour de l'alerte CERTFR-2019-ALE-006 concernant Microsoft Remote Desktop Services : Publication par Microsof… https://t.co/w6iIWmPJ6e
+Wed May 22 16:42:08 +0000 2019 <CERT_FR> Mise à jour de l'alerte CERTFR-2019-ALE-006 concernant Microsoft Remote Desktop Services : Informations complémenta… https://t.co/5tpCxW4oxx
+Wed May 15 13:40:21 +0000 2019 <CERT_FR> A cause des risques de propagation liés à cette vulnérabilité, Microsoft a aussi rendu disponible un correctif pour… https://t.co/zSKOXhrwgC
+Wed May 15 13:28:25 +0000 2019 <CERT_FR> CERTFR-2019-AVI-225 : Multiples vulnérabilités dans les produits Microsoft (15 mai 2019)  https://t.co/u2KmoIbG9C
+Wed May 15 13:28:25 +0000 2019 <CERT_FR> CERTFR-2019-AVI-224 : Multiples vulnérabilités dans Microsoft .Net (15 mai 2019)  https://t.co/6tnnQMnlo3
+Wed May 15 13:28:25 +0000 2019 <CERT_FR> CERTFR-2019-AVI-223 : Multiples vulnérabilités dans Microsoft Windows (15 mai 2019)  https://t.co/gJ7a5ThJqt
+Wed May 15 13:28:24 +0000 2019 <CERT_FR> CERTFR-2019-AVI-222 : Multiples vulnérabilités dans Microsoft Office (15 mai 2019)  https://t.co/wZZhlyxKIN
+Wed May 15 13:28:24 +0000 2019 <CERT_FR> CERTFR-2019-AVI-221 : Multiples vulnérabilités dans Microsoft Edge (15 mai 2019)  https://t.co/jh3uh07fio
+Wed May 15 13:28:24 +0000 2019 <CERT_FR> CERTFR-2019-AVI-220 : Multiples vulnérabilités dans Microsoft IE (15 mai 2019)  https://t.co/Vscrw70Dh2
+Tue May 14 18:19:12 +0000 2019 <CERT_FR> Précision sur l'avis CERTFR-2019-AVI-209 (https://t.co/AEEpwifaOt) : Sur les systèmes Windows, la mise à jour s'app… https://t.co/PVKwQcnXm3
+Wed Apr 10 08:28:31 +0000 2019 <CERT_FR> CERTFR-2019-AVI-160 : Multiples vulnérabilités dans les produits Microsoft (10 avril 2019)  https://t.co/c6wjomyF6H
+Wed Apr 10 08:28:31 +0000 2019 <CERT_FR> CERTFR-2019-AVI-159 : Vulnérabilité dans Microsoft .Net (10 avril 2019)  https://t.co/Cjr8PZGD72
+Wed Apr 10 08:28:31 +0000 2019 <CERT_FR> CERTFR-2019-AVI-158 : Multiples vulnérabilités dans Microsoft Windows (10 avril 2019)  https://t.co/d34YBfaPK5
+Wed Apr 10 08:28:30 +0000 2019 <CERT_FR> CERTFR-2019-AVI-157 : Multiples vulnérabilités dans Microsoft Office (10 avril 2019)  https://t.co/DrG6yFkUy1
+Wed Apr 10 08:28:30 +0000 2019 <CERT_FR> CERTFR-2019-AVI-156 : Multiples vulnérabilités dans Microsoft Edge (10 avril 2019)  https://t.co/AeoYRxyQd2
+Wed Apr 10 08:28:29 +0000 2019 <CERT_FR> CERTFR-2019-AVI-155 : Multiples vulnérabilités dans Microsoft Internet Explorer (10 avril 2019)  https://t.co/UKa4DfZrKl
+Wed Mar 13 09:31:52 +0000 2019 <CERT_FR> CERTFR-2019-AVI-106 : Multiples vulnérabilités dans les produits Microsoft (13 mars 2019)  https://t.co/keILjc79hy
+Wed Mar 13 09:31:52 +0000 2019 <CERT_FR> CERTFR-2019-AVI-105 : Vulnérabilité dans Microsoft .Net (13 mars 2019)  https://t.co/yIsOJn0QCM
+Wed Mar 13 09:31:52 +0000 2019 <CERT_FR> CERTFR-2019-AVI-104 : Multiples vulnérabilités dans Microsoft Windows (13 mars 2019)  https://t.co/goEvLZTsC5
+Wed Mar 13 09:31:51 +0000 2019 <CERT_FR> CERTFR-2019-AVI-103 : Multiples vulnérabilités dans Microsoft Office (13 mars 2019)  https://t.co/vfxbuL4N5H
+Wed Mar 13 09:31:51 +0000 2019 <CERT_FR> CERTFR-2019-AVI-102 : Multiples vulnérabilités dans Microsoft Edge (13 mars 2019)  https://t.co/DHcFoxCSDX
+Wed Mar 13 09:31:51 +0000 2019 <CERT_FR> CERTFR-2019-AVI-101 : Multiples vulnérabilités dans Microsoft Internet Explorer (13 mars 2019)  https://t.co/txEcOR6WG2
