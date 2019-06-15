@@ -20,12 +20,12 @@ Conditions préalables
 =====================
 
 Vous deviez installer les packages suivants :
-* Net::Twitter  [Meta CPAN](https://metacpan.org/pod/Net::Twitter)
-* Config::Tiny   [Meta CPAN](https://metacpan.org/pod/Config::Tiny)
-* Fichier::HomeDir [Meta CPAN](https://metacpan.org/pod/File::HomeDir) 
-* utf8::all [Meta CPAN](https://metacpan.org/pod/utf8::all)
+* [Net::Twitter](https://metacpan.org/pod/Net::Twitter)
+* [Config::Tiny](https://metacpan.org/pod/Config::Tiny)
+* [Fichier::HomeDir](https://metacpan.org/pod/File::HomeDir) 
+* [utf8::all](https://metacpan.org/pod/utf8::all)
 
-**Vous deviez** vous abornés sur le compte twitter du CERT_FR dont voici le lien [@CERT_FR] (https://twitter.com/CERT_FR) .
+**Vous devriez** vous abonner sur le compte twitter du CERT FR dont voici le lien [@CERT_FR](https://twitter.com/CERT_FR) .
 
 Net::Twitter ?
 ------------ 
