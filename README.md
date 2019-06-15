@@ -102,15 +102,20 @@ Si c'est n'est pas le cas, visitez la page [Installing Perl on Windows (32 and 6
 2)	Placez-vous dans ce dossier décompressé et ouvrez l’invite de commande à cet endroit
 3)	Tapez la commande >perl vulnerabilitesCERT_FR.pl.
 
-Apercus
+aperçus du resultat
 =======
-![Resultat](https://i.ibb.co/McdMqz6/3.png)
+![Resultat](https://i.ibb.co/nDBKLg4/3.png)
 
 License
 ======
 Double licence sous les licences MIT ou GPL version 2.
 
 
+Contribuant
+===========
+
+<a href="graphs/contributors"><img src="https://i.ibb.co/34q2ZrQ/ntm.jpg" /></a>
 
 **Michel Gildas NOUTCHA**  :kissing_heart:
-![NTM](https://i.ibb.co/34q2ZrQ/ntm.jpg)
+------------------------------------------
+![NTM](https://i.ibb.co/34q2ZrQ/ntm.jpg "Michel NOUTCHA")
