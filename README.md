@@ -25,19 +25,19 @@ Vous deviez installer les packages suivants :
 * [Fichier::HomeDir](https://metacpan.org/pod/File::HomeDir) 
 * [utf8::all](https://metacpan.org/pod/utf8::all)
 
-**Vous devriez** vous abonner sur le compte twitter du CERT FR dont voici le lien [@CERT_FR](https://twitter.com/CERT_FR) .
+**Vous devez** vous abonner sur le compte twitter [@CERT_FR](https://twitter.com/CERT_FR) .
 
 Net::Twitter ?
 ------------ 
 C'est une interface Perl pour l'API Twitter.
 Pour plus d'informations visiter le site [Meta CPAN](https://metacpan.org/pod/Net::Twitter) .
 
-Example
+Example : Publier un Tweet
 ------
 Cet exemple est disponible sur le site CPAN qui donne plus de details sur cette interface.
 
 
-```javascript
+```perl
 
 use Net::Twitter;
 use Scalar::Util 'blessed';
@@ -78,10 +78,35 @@ boite a outils de developreur, regardez les sources de mon depot.
 
 Autres exemples et documentation
 ==========================
+
 Pour plus de détails et des exemples de code, consultez 
 la page de démonstration et de documentation sur: https://metacpan.org/pod/Net::Twitter
+
+Construire à partir de la source
+================================
+Pour créer Perl_API_Twitter à partir des sources, vous aurez simplement besoin d’un utilitaire make et de Perl 5.8 ou plus récent. 
+Pour obtenir et compiler automatiquement Perl_API_Twitter, vous aurez peut-être également besoin d'un client git.
+
+Pour obtenir le Perl_API_Twitter directement à partir de son dépôt:
+
+```cmd
+
+	>git clone git://github.com/noutcha/Perl_API_Twitter.git
+
+```
+La procédure d’exécution
+========================
+Pour exécuter le programme (en considérant que perl est déjà installer sur votre PC).
+Si c'est n'est pas le cas, visitez la page [Installing Perl on Windows (32 and 64 bit)](https://learn.perl.org/installing/windows.html) 
+1)	Décompressez le fichier Suivi_vulnerabilite.zip sur votre disque local
+2)	Placez-vous dans ce dossier décompressé et ouvrez l’invite de commande à cet endroit
+3)	Tapez la commande >perl vulnerabilitesCERT_FR.pl.
 
 License
 ======
 Double licence sous les licences MIT ou GPL version 2.
+
+
+
+Michel Gildas NOUTCHA
 
