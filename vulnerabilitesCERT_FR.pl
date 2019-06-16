@@ -59,8 +59,8 @@ open( my $processedData_fh,  '+>', $processedData )
 
 # Creation de notre tableau( table de hachage) pour le stockage des données d'accès a l'API
 my %consumer_tokens = (
-    consumer_key    => 'V4y8PXYLRaLBPi1yodkSDs2mW',
-    consumer_secret => 'e9ybTukfvEHQheoXu9X62dxpxzdNvOeaM1tnw5NOUBd2uDk24N',
+    consumer_key    => 'Votre consumer key',
+    consumer_secret => 'votre consumer secret',
 );
 
  
