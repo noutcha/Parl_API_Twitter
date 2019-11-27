@@ -104,6 +104,17 @@ Si c'est n'est pas le cas, visitez la page [Installing Perl on Windows (32 and 6
 
 aperçus du resultat
 =======
+
+Autorisation
+-------------
+![Resultat](https://i.ibb.co/sCc1DhY/2.png)
+
+![Resultat](https://i.ibb.co/LrPHMXH/1.png)
+
+NB: ntmsmsi ici c'est l'application que vous executez.
+
+Résultat final
+-------------
 ![Resultat](https://i.ibb.co/nDBKLg4/3.png)
 
 License
